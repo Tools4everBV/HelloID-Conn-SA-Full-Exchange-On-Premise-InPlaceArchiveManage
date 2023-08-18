@@ -1,0 +1,22 @@
+[
+    {
+        "key":  "UserPrincipalName",
+        "type":  0
+    },
+    {
+        "key":  "Archive",
+        "type":  0
+    },
+    {
+        "key":  "DistinguishedName",
+        "type":  0
+    },
+    {
+        "key":  "Alias",
+        "type":  0
+    },
+    {
+        "key":  "DisplayName",
+        "type":  0
+    }
+]
